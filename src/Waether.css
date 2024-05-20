@@ -1,0 +1,10 @@
+li{
+    list-style-type: none;
+    cursor: pointer;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
